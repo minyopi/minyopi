@@ -7,6 +7,7 @@
 #### 💌 Contact me 
 <a href="https://velog.io/@leemin02_" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
+ [![Minyoung's github stats](https://github-readme-stats.vercel.app/api?username=minyopi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minyopi/minyopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
