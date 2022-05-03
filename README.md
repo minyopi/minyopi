@@ -3,11 +3,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-
+<!-- 
 #### 💌 Contact me 
 <a href="https://velog.io/@leemin02_" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
- [![Minyoung's github stats](https://github-readme-stats.vercel.app/api?username=minyopi)](https://github.com/anuraghazra/github-readme-stats)
+ [![Minyoung's github stats](https://github-readme-stats.vercel.app/api?username=minyopi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **minyopi/minyopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
